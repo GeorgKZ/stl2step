@@ -1,0 +1,5 @@
+// Файлы указаний помогают среде IDE Visual Studio интерпретировать идентификаторы Visual C++
+// (например, имена функций и макросов).
+// Дополнительные сведения: https://go.microsoft.com/fwlink/?linkid=865984
+#define STEP_TYPE_SELECT_CONSTRUCTOR_DEF(B, T) B(const T* t)
+#define STEP_TYPE_SELECT_CONSTRUCTOR(B, T) B::B(const T* t) : SELECT(t) { }
