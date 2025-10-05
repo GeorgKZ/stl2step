@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="38mm" height="26mm" viewBox="0 0 3839 2651" xmlns="http://www.w3.org/2000/svg">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 500,2151 L 3339,2151 3339,500 500,500 500,2151 Z"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="1525" y="1200">(AE)</text>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="1274" y="1625">an_entity</text>
+</svg>

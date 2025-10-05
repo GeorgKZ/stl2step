@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="105mm" height="34mm" viewBox="0 0 10583 3488" xmlns="http://www.w3.org/2000/svg">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 1875,2876 L 5769,2876 C 5920,2876 6044,2752 6044,2599 6044,2448 5920,2324 5769,2324 L 1875,2324 C 1723,2324 1600,2448 1600,2599 1600,2752 1723,2876 1875,2876 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 500,2599 L 1600,2599"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="2375" y="2690">page#, ref# name</text>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="7491" y="2475">reference onto</text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 775,1226 L 4667,1226 C 4820,1226 4944,1102 4944,949 4944,798 4820,674 4667,674 L 775,674 C 623,674 500,798 500,949 500,1102 623,1226 775,1226 Z"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="7631" y="2901">another page</text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 4942,949 L 6042,949"/>
+ <path fill="rgb(255,255,255)" stroke="none" d="M 6044,949 C 6044,921 6033,892 6012,872 5991,852 5962,839 5932,839 5904,839 5875,852 5854,872 5835,892 5822,921 5822,949 5822,979 5835,1007 5854,1029 5875,1050 5904,1061 5932,1061 5962,1061 5991,1050 6012,1029 6033,1007 6044,979 6044,949 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 6044,949 C 6044,921 6033,892 6012,872 5991,852 5962,839 5932,839 5904,839 5875,852 5854,872 5835,892 5822,921 5822,949 5822,979 5835,1007 5854,1029 5875,1050 5904,1061 5932,1061 5962,1061 5991,1050 6012,1029 6033,1007 6044,979 6044,949 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 6044,949 C 6044,921 6033,892 6012,872 5991,852 5962,839 5932,839 5904,839 5875,852 5854,872 5835,892 5822,921 5822,949 5822,979 5835,1007 5854,1029 5875,1050 5904,1061 5932,1061 5962,1061 5991,1050 6012,1029 6033,1007 6044,979 6044,949 Z"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="918" y="1040">page#,ref# (#,#, . . . )</text>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="7491" y="825">reference onto</text>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="7939" y="1251">this page</text>
+</svg>

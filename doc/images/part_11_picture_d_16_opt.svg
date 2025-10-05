@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="93mm" height="54mm" viewBox="0 0 9338 5401" xmlns="http://www.w3.org/2000/svg">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 775,4351 L 3064,4351 C 3215,4351 3339,4227 3339,4076 3339,3923 3215,3800 3064,3800 L 775,3800 C 623,3800 500,3923 500,4076 500,4227 623,4351 775,4351 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 500,4901 L 3339,4901 3339,3250 500,3250 500,4901 Z"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="1074" y="4199">schema.def</text>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="1352" y="4703">rename</text>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="5260" y="3950">definition use’d</text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 775,1601 L 3064,1601 C 3215,1601 3339,1477 3339,1326 3339,1173 3215,1050 3064,1050 L 775,1050 C 623,1050 500,1173 500,1326 500,1477 623,1601 775,1601 Z"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="4906" y="4376">from another schema</text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-dasharray="100,100" stroke-width="17" d="M 500,2151 L 3339,2151 3339,500 500,500 500,2151 Z"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="1074" y="1449">schema.def</text>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="1352" y="1953">rename</text>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="4786" y="1200">definition reference’d</text>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="5049" y="1626">from another schema</text>
+</svg>

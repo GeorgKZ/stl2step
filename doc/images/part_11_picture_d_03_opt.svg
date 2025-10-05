@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="93mm" height="37mm" viewBox="0 0 9361 3751" xmlns="http://www.w3.org/2000/svg">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 500,3251 L 2921,3251 2921,2700 500,2700 500,3251 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 2700,3250 L 2700,2700"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 3470,3251 L 5891,3251 5891,2700 3470,2700 3470,3251 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 5670,3250 L 5670,2700"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="723" y="3107">NUMBER</text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 6440,3251 L 8861,3251 8861,2700 6440,2700 6440,3251 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 8640,3250 L 8640,2700"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="3659" y="3107">INTEGER</text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 500,2151 L 2921,2151 2921,1600 500,1600 500,2151 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 2700,2150 L 2700,1600"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="7001" y="3107">REAL</text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 3470,2151 L 5891,2151 5891,1600 3470,1600 3470,2151 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 5670,2150 L 5670,1600"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="621" y="2007">BOOLEAN</text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 6440,2151 L 8861,2151 8861,1600 6440,1600 6440,2151 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 8640,2150 L 8640,1600"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="3672" y="2007">LOGICAL</text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 3470,1051 L 5891,1051 5891,500 3470,500 3470,1051 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 5670,1050 L 5670,500"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="6785" y="2007">STRING</text>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="3786" y="907">BINARY</text>
+</svg>

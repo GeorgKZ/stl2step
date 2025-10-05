@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="38mm" height="21mm" viewBox="0 0 3840 2101" xmlns="http://www.w3.org/2000/svg">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 3340,1050 C 3340,904 3190,765 2923,661 2657,558 2296,500 1920,500 1542,500 1182,558 915,661 649,765 500,904 500,1050 500,1197 649,1337 915,1440 1182,1543 1542,1601 1920,1601 2296,1601 2657,1543 2923,1440 3190,1337 3340,1197 3340,1050 Z"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="924" y="1169">sc_constraint</text>
+</svg>

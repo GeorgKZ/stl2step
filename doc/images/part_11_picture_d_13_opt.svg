@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="88mm" height="36mm" viewBox="0 0 8879 3612" xmlns="http://www.w3.org/2000/svg">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="52" d="M 500,2901 L 3339,2901"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-dasharray="100,100" stroke-width="17" d="M 500,1801 L 3339,1801"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="6294" y="3025">Thick line</text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 500,701 L 3339,701"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="6294" y="1925">Dashed line</text>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="6294" y="825">Normal line</text>
+</svg>

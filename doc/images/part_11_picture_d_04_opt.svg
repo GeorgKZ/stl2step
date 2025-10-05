@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="51mm" height="15mm" viewBox="0 0 5181 1551" xmlns="http://www.w3.org/2000/svg">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 500,1051 L 4681,1051 4681,500 500,500 500,1051 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 4460,1050 L 4460,500"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="860" y="897">GENERIC ENTITY</text>
+</svg>

@@ -1,0 +1,79 @@
+<svg
+   width="180"
+   height="20" 
+   xmlns="http://www.w3.org/2000/svg">
+  <title>Operation System: Windows</title>
+  <linearGradient id="gradient"
+     x2="0"
+     y2="100%">
+    <stop
+        offset="0"
+        stop-color="#B0B0B0"
+        stop-opacity=".1"/>
+    <stop
+        offset="1"
+        stop-opacity=".3"/>
+  </linearGradient>
+  <clipPath id="clippath">
+     <rect id="rect_clip"
+        width="180"
+        height="20"
+        rx="3"
+        fill="#FFFFFF"/>
+  </clipPath>
+  <g id="clip"
+     clip-path="url(#clippath)">
+    <rect id="rect_left"
+       width="106"
+       height="20"
+       fill="#505050"/>
+    <rect id="rect_right"
+       x="106"
+       width="74"
+       height="20"
+       fill="#0080C0"/>
+    <rect id="rect_gradient"
+       width="180"
+       height="20"
+       fill="url(#gradient)"/>
+  </g>
+  <g id="texts"
+     fill="#FFFFFF"
+     text-anchor="start"
+     font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+     text-rendering="geometricPrecision"
+     font-size="11">
+    <text id="text_left_shadow"
+       x="4.0"
+       y="15"
+       fill="#010101"
+       fill-opacity=".3">Operation System</text>
+    <text id="text_left"
+       x="3.0"
+       y="14"
+       fill="#FFFFFF">Operation System</text>
+    <text id="text_right_shadow"
+       x="128"
+       y="15"
+       fill="#010101"
+       fill-opacity=".3">Windows</text>
+    <text id="text_right"
+       x="127"
+       y="14"
+       fill="#FFFFFF">Windows</text>
+  </g>
+  <g id="windows_logo"
+     style="fill:#FFFFFF"
+     transform="matrix(1,0,0,1,105,0)">
+    <g id="up"
+       transform="matrix(0.17,0,0,0.17,-3.5,-7.5)">
+      <path d="M 45,98 V 69 l 37,-5 v 34 z" />
+      <path d="M 85,98 V 63.5 L 135,56 v 42 z" />
+    </g>
+    <g id="down"
+       transform="matrix(0.17,0,0,-0.17,-3.5,26.5)">
+      <path d="M 45,98 V 69 l 37,-5 v 34 z" />
+      <path d="M 85,98 V 63.5 L 135,56 v 42 z" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+<svg
+   width="96"
+   height="20"
+   xmlns="http://www.w3.org/2000/svg">
+  <title>License: GPLv3</title>
+  <linearGradient id="gradient"
+     x2="0"
+     y2="100%">
+    <stop
+        offset="0"
+        stop-color="#B0B0B0"
+        stop-opacity=".1"/>
+    <stop
+        offset="1"
+        stop-opacity=".3"/>
+  </linearGradient>
+  <clipPath id="clippath">
+     <rect id="rect_clip"
+        width="96"
+        height="20"
+        rx="3"
+        fill="#FFFFFF"/>
+  </clipPath>
+  <g
+     clip-path="url(#clippath)">
+    <rect id="rect_left"
+       width="51"
+       height="20"
+       fill="#505050"/>
+    <rect id="rect_right"
+       x="51"
+       width="45"
+       height="20"
+       fill="#007EC6"/>
+    <rect id="rect_gradient"
+       width="96"
+       height="20"
+       fill="url(#gradient)"/>
+  </g>
+  <g id="texts"
+     fill="#FFFFFF"
+     text-anchor="start"
+     font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+     text-rendering="geometricPrecision"
+     font-size="11">
+    <text id="text_left_shadow"
+       x="4"
+       y="15"
+       fill="#010101"
+       fill-opacity=".3">License</text>
+    <text id="text_left"
+       x="3"
+       y="14.0"
+       fill="#FFFFFF">License</text>
+    <text id="text_right_shadow"
+       x="56"
+       y="15"
+       fill="#010101"
+       fill-opacity=".3">GPLv3</text>
+    <text id="text_right"
+       x="55"
+       y="14"
+       fill="#FFFFFF">GPLv3</text>
+  </g>
+</svg>

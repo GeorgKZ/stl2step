@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="38mm" height="48mm" viewBox="0 0 3839 4851" xmlns="http://www.w3.org/2000/svg">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 500,4351 L 3339,4351 3339,2700 500,2700 500,4351 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 3339,1051 C 3339,903 3189,764 2922,660 2656,557 2295,500 1919,500 1542,500 1182,557 915,660 649,764 500,903 500,1051 500,1196 649,1336 915,1439 1182,1542 1542,1601 1919,1601 2295,1601 2656,1542 2922,1439 3189,1336 3339,1196 3339,1051 Z"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="1215" y="3610">an_entity</text>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="1420" y="925">(ABS)</text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-dasharray="100,100" stroke-width="17" d="M 1919,1600 L 1919,2700"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 2030,2480 L 1920,2701 1809,2480"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="1312" y="1350">sc_entity</text>
+</svg>

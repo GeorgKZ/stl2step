@@ -1,0 +1,72 @@
+<svg
+   width="138"
+   height="20" 
+   xmlns="http://www.w3.org/2000/svg">
+  <title>Build System: CMake</title>
+  <linearGradient id="gradient"
+     x2="0"
+     y2="100%">
+    <stop
+        offset="0"
+        stop-color="#B0B0B0"
+        stop-opacity=".1"/>
+    <stop
+        offset="1"
+        stop-opacity=".3"/>
+  </linearGradient>
+  <clipPath id="clippath">
+     <rect id="rect_clip"
+        width="138"
+        height="20"
+        rx="3"
+        fill="#FFFFFF"/>
+  </clipPath>
+  <g
+     clip-path="url(#clippath)">
+    <rect id="rect_left"
+       width="78"
+       height="20"
+       fill="#505050"/>
+    <rect id="rect_right"
+       x="78"
+       width="60"
+       height="20"
+       fill="#FFFFFF"/>
+    <rect id="rect_gradient"
+       width="184"
+       height="20"
+       fill="url(#gradient)"/>
+  </g>
+  <g id="texts"
+     fill="#FFFFFF"
+     text-anchor="start"
+     font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+     text-rendering="geometricPrecision"
+     font-size="11">
+    <text id="text_left_shadow"
+       x="4.0"
+       y="15"
+       fill="#010101"
+       fill-opacity=".3">Build System</text>
+    <text id="text_left"
+       x="3.0"
+       y="14"
+       fill="#FFFFFF">Build System</text>
+    <text id="text_right_shadow"
+       x="99.0"
+       y="16.5"
+       fill="#001020"
+       fill-opacity=".3">CMake</text>
+    <text id="text_right"
+       x="98.0"
+       y="15.5"
+       fill="#003764">CMake</text>
+  </g>
+  <g id="CMake_logo"
+     transform="matrix(0.18,0,0,0.18,82,2)">
+     <polygon points="39.53 0 0 78.6 43.3 41.8 39.53 0" style="fill:#0068C7;"/>
+     <polygon points="78.98 82.14 25.56 60.62 .22 82.14 78.98 82.14" style="fill:#3DAE2B;"/>
+     <polygon points="82.09 80.3 42.4 1.34 48.29 66.68 82.09 80.3" style="fill:#F32735;"/>
+     <polygon points="43.78 45.03 27.95 58.46 45.6 65.56 43.78 45.03" style="fill:#DCE3EB;"/>
+  </g>
+</svg>

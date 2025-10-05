@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="102mm" height="48mm" viewBox="0 0 10264 4851" xmlns="http://www.w3.org/2000/svg">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-dasharray="100,100" stroke-width="17" d="M 500,4351 L 3429,4351 3429,3800 500,3800 500,4351 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-dasharray="100,100" stroke-width="17" d="M 3208,4350 L 3208,3800"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-dasharray="100,100" stroke-width="17" d="M 500,3251 L 3429,3251 3429,2700 500,2700 500,3251 Z"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="725" y="4165">(EX) an_enum</text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-dasharray="100,100" stroke-width="17" d="M 5628,3251 L 9764,3251 9764,2700 5628,2700 5628,3251 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-dasharray="100,100" stroke-width="17" d="M 9543,3250 L 9543,2700"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="1289" y="3053">an_enum</text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 3428,2975 L 5628,2975"/>
+ <path fill="rgb(255,255,255)" stroke="none" d="M 5629,2976 C 5629,2946 5618,2917 5597,2896 5576,2876 5549,2865 5519,2865 5490,2865 5462,2876 5441,2896 5420,2917 5408,2946 5408,2976 5408,3004 5420,3033 5441,3054 5462,3074 5490,3086 5519,3086 5549,3086 5576,3074 5597,3054 5618,3033 5629,3004 5629,2976 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 5629,2976 C 5629,2946 5618,2917 5597,2896 5576,2876 5549,2865 5519,2865 5490,2865 5462,2876 5441,2896 5420,2917 5408,2946 5408,2976 5408,3004 5420,3033 5441,3054 5462,3074 5490,3086 5519,3086 5549,3086 5576,3074 5597,3054 5618,3033 5629,3004 5629,2976 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 5629,2976 C 5629,2946 5618,2917 5597,2896 5576,2876 5549,2865 5519,2865 5490,2865 5462,2876 5441,2896 5420,2917 5408,2946 5408,2976 5408,3004 5420,3033 5441,3054 5462,3074 5490,3086 5519,3086 5549,3086 5576,3074 5597,3054 5618,3033 5629,3004 5629,2976 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-dasharray="100,100" stroke-width="17" d="M 500,2151 L 3429,2151 3429,1600 500,1600 500,2151 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-dasharray="100,100" stroke-width="17" d="M 720,2150 L 720,1600"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="5739" y="3065">(EX) ENUMERATION</text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-dasharray="100,100" stroke-width="17" d="M 500,1051 L 3429,1051 3429,500 500,500 500,1051 Z"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="1039" y="1965">(EX) a_select</text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-dasharray="100,100" stroke-width="17" d="M 5628,1051 L 9764,1051 9764,500 5628,500 5628,1051 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-dasharray="100,100" stroke-width="17" d="M 5848,1050 L 5848,500"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="1383" y="899">a_select</text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 3428,775 L 5628,775"/>
+ <path fill="rgb(255,255,255)" stroke="none" d="M 5629,776 C 5629,745 5618,717 5597,696 5576,676 5549,665 5519,665 5490,665 5462,676 5441,696 5420,717 5408,745 5408,776 5408,804 5420,833 5441,854 5462,874 5490,886 5519,886 5549,886 5576,874 5597,854 5618,833 5629,804 5629,776 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 5629,776 C 5629,745 5618,717 5597,696 5576,676 5549,665 5519,665 5490,665 5462,676 5441,696 5420,717 5408,745 5408,776 5408,804 5420,833 5441,854 5462,874 5490,886 5519,886 5549,886 5576,874 5597,854 5618,833 5629,804 5629,776 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 5629,776 C 5629,745 5618,717 5597,696 5576,676 5549,665 5519,665 5490,665 5462,676 5441,696 5420,717 5408,745 5408,776 5408,804 5420,833 5441,854 5462,874 5490,886 5519,886 5549,886 5576,874 5597,854 5618,833 5629,804 5629,776 Z"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="6639" y="865">(EX) SELECT</text>
+</svg>

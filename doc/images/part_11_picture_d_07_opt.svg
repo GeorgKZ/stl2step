@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="84mm" height="26mm" viewBox="0 0 8486 2651" xmlns="http://www.w3.org/2000/svg">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-dasharray="100,100" stroke-width="17" d="M 500,2151 L 2561,2151 2561,1600 500,1600 500,2151 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-dasharray="100,100" stroke-width="17" d="M 2340,2150 L 2340,1600"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-dasharray="100,100" stroke-width="17" d="M 500,1051 L 2561,1051 2561,500 500,500 500,1051 Z"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="704" y="1965">hair type</text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-dasharray="100,100" stroke-width="17" d="M 4760,1051 L 7986,1051 7986,500 4760,500 4760,1051 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-dasharray="100,100" stroke-width="17" d="M 7765,1050 L 7765,500"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="814" y="865">hair type</text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 2560,775 L 4760,775"/>
+ <path fill="rgb(255,255,255)" stroke="none" d="M 4761,776 C 4761,745 4749,717 4728,696 4708,676 4680,665 4651,665 4621,665 4594,676 4572,696 4551,717 4540,745 4540,776 4540,804 4551,833 4572,853 4594,874 4621,886 4651,886 4680,886 4708,874 4728,853 4749,833 4761,804 4761,776 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 4761,776 C 4761,745 4749,717 4728,696 4708,676 4680,665 4651,665 4621,665 4594,676 4572,696 4551,717 4540,745 4540,776 4540,804 4551,833 4572,853 4594,874 4621,886 4651,886 4680,886 4708,874 4728,853 4749,833 4761,804 4761,776 Z"/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="17" d="M 4761,776 C 4761,745 4749,717 4728,696 4708,676 4680,665 4651,665 4621,665 4594,676 4572,696 4551,717 4540,745 4540,776 4540,804 4551,833 4572,853 4594,874 4621,886 4651,886 4680,886 4708,874 4728,853 4749,833 4761,804 4761,776 Z"/>
+ <text font-family="Helvetica,Arial,sans-Serif" font-size="280px" x="4870" y="897">ENUMERATION</text>
+</svg>

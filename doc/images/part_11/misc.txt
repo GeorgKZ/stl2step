@@ -1,0 +1,4 @@
+Пунктирный для path:
+stroke-dasharray="100,100"
+
+Размеры текста для min-max - по rounding box!
