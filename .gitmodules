@@ -1,0 +1,6 @@
+[submodule "submodules/MathJax"]
+	path = submodules/MathJax
+	url = https://github.com/mathjax/MathJax
+[submodule "submodules/SvgToRaster"]
+	path = submodules/SvgToRaster
+	url = https://github.com/GeorgKZ/SvgToRaster
